@@ -6,7 +6,9 @@ Welcome to my GitHub profile! So happy to have you here. Here you will find my p
 
 ### Gene Expression Analysis
 
-I have created an R script to manipulate and analyze gene expression data. You can find the script here [(https://gist.github.com/MahshidCode/70355869465b9d6e1e2b42e69f37585a)].
+I have created an R script to manipulate and analyze gene expression data or draw nice volcano plots. You can find the scripts here:
+ [(https://gist.github.com/MahshidCode/70355869465b9d6e1e2b42e69f37585a)]
+ [(https://gist.github.com/MahshidCode/d473273a5ea0880f71410a8f80c33a1b)]
 
 ## About Me!
 
