@@ -19,6 +19,6 @@ I am an aspiring genomic data scientist with a passion for bioinformatics and co
 -  Email: mahpoola@gmail.com
 -  website: [(https://sites.google.com/view/mahshidpooladvand)]
 -  Instagram Teaching Account: [(https://www.instagram.com/my_silent_song/)]
--  Telegram Channel: [(t.me/sweetr_English)]
+-  Telegram Channel: [(https://t.me/sweetr_English)]
 -  LinkedIn: [(https://www.linkedin.com/in/mahshidpooladvand/)]
 -  Twitter: [(https://twitter.com/MahshidAlready)]
